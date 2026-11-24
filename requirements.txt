@@ -1,0 +1,10 @@
+DeepFilterLib==0.5.6
+DeepFilterNet==0.5.6
+insightface==2.1
+numpy==1.26.4
+onnxruntime-gpu==1.26.0
+opencv-python==4.11.0.86
+scipy==1.17.1
+sounddevice==0.5.6
+speechbrain==1.1.2
+webrtcvad-wheels==2.0.14.post1
